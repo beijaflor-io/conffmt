@@ -1,10 +1,9 @@
 resolver: lts-6.1
 packages:
 - ./.
-- location: ./..
-  extra-dep: true
 extra-deps:
 - megaparsec-5.0.0
 - hspec-megaparsec-0.2.0
 - protolude-0.1.7
+- language-conf-0.2.2.0
 extra-package-dbs: []
