@@ -1,5 +1,5 @@
 name: conffmt
-version: '0.2.2.0'
+version: '0.2.3.0'
 synopsis: A .conf file formatter
 description: ! '
   "conffmt" is a @.conf@ file formatter that serves as an example of
